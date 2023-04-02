@@ -430,7 +430,7 @@ public class StayAway { //outer class
 
     public static class Sprite extends Image{ //Sprite class extends abstract class image
 
-        String src;// = "src/pedestrian1.png";
+        String src;
 
         BufferedImage person;
 
